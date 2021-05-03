@@ -1,0 +1,143 @@
+body{
+    margin: 0%;
+    background-color: white;
+    text-align: center;
+   font-family: 'Merriweather', serif; 
+}
+h1{
+    font-size: 5.625rem;
+    margin-top: 100px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+   font-size: 40px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+    font-weight: 800;
+    font-size: 30px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+.top-container{
+    background-color: #E0EBE8;
+    padding-top: 2px;
+    width: 100%;
+    margin-top: 0;
+    
+    }
+.cloudb{
+    position: absolute;
+    left: 350px;
+}
+.mountain{
+    margin: 0 auto;
+    width: 45%;
+}
+.cloudt{
+    position: absolute;
+    right:300px;
+    top:40px;
+}
+#tag{
+    font-size:34px;
+    position: absolute;
+    top:210px;
+    left: 590px;
+    font-weight: bold;
+    
+      
+}
+#profile-picture{
+    margin-top: 20px;
+    width: 18%;
+}
+.gif{
+    margin-top: 20px;
+    width:30%;
+}
+hr {
+    color: #40514E;
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 6%;
+    text-align: center;
+    margin: 30px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 3;
+}
+#code{
+    float: left;
+    margin-right: 30px;
+
+    
+  
+}
+#messi{
+    
+    float: right;
+    margin-right: 30px;
+}
+#guitar{
+    
+    float:left ;
+    margin-right: 30px;
+}
+p{
+    color:#40514E;
+}
+#hello{
+    font-size: 50px;
+    font-weight:1000 ;
+}
+.button {
+    margin: 40px 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 10px;
+    background-color: #29DEDE;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .button:hover {
+    background: #268D8D;
+    border: solid #99C624 0;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    text-decoration: none;
+    color: white;
+ }
+ .bottom-container{
+     background-color: #66BFBF;
+     padding: 30px ;
+     color: #0b858a;
+ }
+ #end{
+     margin-top: 30px;
+     color: white;
+     font-weight: 500;
+ }
+ a:hover{
+     color: white;
+ }
